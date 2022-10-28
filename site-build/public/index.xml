@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Code and computation teaching</title>
+        <title>Code for Research: Training</title>
         <link>https://alleetanner.github.io/code-teaching/</link>
-        <description>Code and computation teaching</description>
+        <description>Code for Research: Training</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language>
             <atom:link href="https://alleetanner.github.io/code-teaching/index.xml" rel="self" type="application/rss+xml" />
         </channel>
