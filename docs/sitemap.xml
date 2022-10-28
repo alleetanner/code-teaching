@@ -2,14 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://alleetanner.github.io/code-teaching/</loc><lastmod>2022-10-28T08:06:44&#43;01:00</lastmod><priority>1</priority></url><url>
-            <loc>https://alleetanner.github.io/code-teaching/posts/05deploying/</loc><lastmod>2022-10-28T08:06:44&#43;01:00</lastmod></url><url>
-            <loc>https://alleetanner.github.io/code-teaching/posts/</loc><lastmod>2022-10-28T08:06:44&#43;01:00</lastmod></url><url>
-            <loc>https://alleetanner.github.io/code-teaching/posts/04visuals/</loc><lastmod>2022-10-28T08:06:44&#43;01:00</lastmod></url><url>
-            <loc>https://alleetanner.github.io/code-teaching/posts/03dataframes/</loc><lastmod>2022-10-28T08:06:44&#43;01:00</lastmod></url><url>
-            <loc>https://alleetanner.github.io/code-teaching/posts/02first_steps/</loc><lastmod>2022-10-28T08:06:44&#43;01:00</lastmod></url><url>
-            <loc>https://alleetanner.github.io/code-teaching/posts/01requirements/</loc><lastmod>2022-10-28T08:06:44&#43;01:00</lastmod></url><url>
-            <loc>https://alleetanner.github.io/code-teaching/posts/00intro/</loc><lastmod>2022-10-28T08:06:44&#43;01:00</lastmod></url><url>
+            <loc>https://alleetanner.github.io/code-teaching/</loc><priority>0</priority></url><url>
             <loc>https://alleetanner.github.io/code-teaching/about/</loc><priority>0</priority></url><url>
             <loc>https://alleetanner.github.io/code-teaching/categories/</loc></url><url>
             <loc>https://alleetanner.github.io/code-teaching/tags/</loc></url></urlset>
