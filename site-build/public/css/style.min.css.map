@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/Users/at9362/Code/code-teaching/site-build",
+	"sourceRoot": "/home/runner/work/code-teaching/code-teaching/site-build",
 	"sources": [
 		"themes/LoveIt_local/assets/css/style.scss",
 		"themes/LoveIt_local/assets/css/_variables.scss",
