@@ -8,7 +8,7 @@ Please see the sections below for my courses, and for further information about 
 
 {{< admonition type="tip" title="Introduction to the Command Line" open=false >}}
 ## [Introduction to the Command Line](https://alleetanner.github.io/intro-to-command-line/)
-The command line is a way for us to communicate with computers at a more fundamental level than the more familiar graphical interface. If the command line seems intimidating, unfriendly, or frustrating, this course is for you! In this session you will
+The command line is a way for us to communicate with computers at a more fundamental level than the familiar graphical interface. However, the command line can seem daunting to newcomers... if the command line seems intimidating, unfriendly, or frustrating, this course is for you! In this session you will
 - understand what command line is saying to you
 - learn how to move around a computer's file system, making moving and deleting files
 - gain an introduction to powerful command line tools for automating tasks
