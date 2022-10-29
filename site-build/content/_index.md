@@ -1,8 +1,8 @@
 ### University of Bristol ∙ Research Computing Training
 
-Welcome!
+Welcome! My name is Alastair Tanner and I develop and deliver teaching for the University of Bristol Research Software Engineering group. For more information about me and my colleagues, please see the _About_ section above.
 
-This page hosts links to the courses that I run for the University of Bristol Research Software Engineering group. These courses are aimed at learners wishing to build their computing confidence, to gain a strong coding foundation, and to apply software engineering principles so that code is clean, reusable, efficient and makes sense to other human being. Our wider goals are to promote computer literacy within research, leading to better communication of methods, interpretation of results, and skillsharing within groups. We welcome everyone from beginners to experts, scientists to artists!
+On this page you will find my current courses. These are aimed at learners wishing to build their computing confidence, to gain a strong coding foundation, and to apply software engineering principles so that code is clean, reusable, efficient and makes sense to other human being. Our wider goals are to promote computer literacy within research, leading to better communication of methods, interpretation of results, and skillsharing within groups. We welcome everyone from beginners to experts, scientists to artists!
 
 Please see the sections below for my courses, and for further information about the RSE team and our other courses, see the _About_ section above.
 
@@ -16,14 +16,21 @@ The command line is a way for us to communicate with computers at a more fundame
 We also provide more advanced sections on pipes and redirects, working with remote computers, as well as some basics for bioinformaticians.
 {{< /admonition >}}
 
+
+{{< admonition type="tip" title="BioPython" open=false >}}
+## [BioPython](https://alleetanner.github.io/biopython/)
+The genetic revolution continues, with vast amounts of sequence information (genetics, genomic, proteomic and other -omics data) available to researchers. Harnessing that data requires coding skills, using tools to acquire, manage and analyse data. The Python library BioPython has been developed to do this, and in this session you will
+- be given an overview of the capabilities of BioPython
+- write some scripts to aquire specific genes
+- run some analyses to examine the sequence information for particular characteristics
+- as well as be introduced to major sequence archives such as GenBank and Ensembl.
+
+Where appropriate, this course may also include some material on preparing submission scripts for SLURM-managed computing clusters.
+{{< /admonition >}}
+
 {{< admonition type="tip" title="Data Visualisation with Streamlit" open=false >}}
 Here we learn about 
 - plsadfk
 - afji
 {{< /admonition >}}
 
-{{< admonition type="tip" title="BioPython" open=false >}}
-## [BioPython](https://alleetanner.github.io/biopython/)
-- plsadfk
-- afji
-{{< /admonition >}}
