@@ -11,7 +11,7 @@
 - [Follow the RSE team on Twitter](https://twitter.com/bristolrse)
 {{< /admonition >}}
 
-![Alastair Tanner portrait](assets/portrait.jpg)
+![Alastair Tanner portrait](../assets/portrait.jpg)
 
 I am a research software engineer with the Advanced Computing Research Centre, University of Bristol. My education includes an MSci in Evolution & Palaeontology (focussing on the evolution of penguins and other water birds), leading to a doctoral scholarship in teaching and research (also in evolutionary genetics). I gained my PhD in Phylogenomics is 2018, and since then I have broadened my data science and computational skills as a member of the RSE team. My projects have included code support in epidemiology, physics, and more recently working on a open spectroscopy platform for Earth scientists. I enjoy being a scientific generalist, with collaborative experience across four schools (Earth Sciences, Life Sciences, Physics and the Medical School) at the University of Bristol.
 
