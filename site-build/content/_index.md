@@ -19,9 +19,9 @@ We also provide more advanced sections on pipes and redirects, working with remo
 
 {{< admonition type="tip" title="BioPython" open=false >}}
 ## [BioPython](https://alleetanner.github.io/biopython/)
-The genetic revolution continues, with vast amounts of sequence information (genetics, genomic, proteomic and other -omics data) available to researchers. Harnessing that data requires coding skills, using tools to acquire, manage and analyse data. The Python library BioPython has been developed to do this, and in this session you will
-- be given an overview of the capabilities of BioPython
-- write some scripts to aquire specific genes
+The genetic revolution continues, with vast amounts of sequence information (genetics, genomic, proteomic and other -omics data) available to researchers. The Python library BioPython has been developed to acquire, manage and process sequence information. This course aims to provide learners with 
+- an overview of the capabilities of BioPython
+- an introduction to building data acquisition Python scripts
 - run some analyses to examine the sequence information for particular characteristics
 - as well as be introduced to major sequence archives such as GenBank and Ensembl.
 
@@ -29,8 +29,10 @@ Where appropriate, this course may also include some material on preparing submi
 {{< /admonition >}}
 
 {{< admonition type="tip" title="Data Visualisation with Streamlit" open=false >}}
-Here we learn about 
-- plsadfk
-- afji
+## [Data Visualisation with Streamlit](https://alleetanner.github.io/data-vis-with-streamlit/)
+Communication is key for research, and today software tools to express aspects of data are growing in capability and accessibility. In this workshop we use the data visualisation and data-app library, Streamlit. This is a framework for rapidly producing dashboards and user interfaces, using a streamlined Python API. In this workshop we will
+- look at an overview of the design and potentials of Streamlit
+- create a simple data-app by writing some Python code
+- deploy the app to the cloud so that is can be accessed by anyone.
 {{< /admonition >}}
 
