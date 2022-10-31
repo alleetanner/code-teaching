@@ -1,10 +1,10 @@
 ### University of Bristol ∙ Research Computing Training
 
-Welcome! My name is Alastair Tanner and I develop and deliver teaching for the University of Bristol Research Software Engineering group. For more information about me and my colleagues, please see the _About_ section above.
+Welcome! My name is Alastair Tanner and I teach computing skills for the University of Bristol Research Software Engineering group. For more information about me and my colleagues, please see the _About_ section above.
 
 On this page you will find my current courses. These are aimed at learners wishing to build their computing confidence, to gain a strong coding foundation, and to apply software engineering principles so that code is clean, reusable, efficient and makes sense to other human being. Our wider goals are to promote computer literacy within research, leading to better communication of methods, interpretation of results, and skillsharing within groups. We welcome everyone from beginners to experts, scientists to artists!
 
-Please see the sections below for my courses, and for further information about the RSE team and our other courses, see the _About_ section above.
+Please see the sections below for my courses.
 
 {{< admonition type="tip" title="Introduction to the Command Line" open=false >}}
 ## [Introduction to the Command Line](https://alleetanner.github.io/intro-to-command-line/)
