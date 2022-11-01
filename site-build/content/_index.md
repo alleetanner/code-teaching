@@ -17,8 +17,8 @@ We also provide more advanced sections on pipes and redirects, working with remo
 {{< /admonition >}}
 
 
-{{< admonition type="tip" title="<i class=\"fa-solid fa-dna\"></i><i class=\"fa-brands fa-python\"></i> BioPython" open=false >}}
-## [• BioPython •](https://alleetanner.github.io/biopython/)
+{{< admonition type="tip" title="BioPython" open=false >}}
+## [<i class="fa-solid fa-dna"></i><i class="fa-brands fa-python"></i> BioPython](https://alleetanner.github.io/biopython/)
 The genetic revolution continues, with vast amounts of sequence information (genetics, genomic, proteomic and other -omics data) available to researchers. The Python library BioPython has been developed to acquire, manage and process sequence information. This course aims to provide learners with 
 - an overview of the capabilities of BioPython
 - an introduction to building data acquisition Python scripts
