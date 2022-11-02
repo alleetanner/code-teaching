@@ -29,7 +29,7 @@ Where appropriate, this course may also include some material on preparing submi
 {{< /admonition >}}
 
 {{< admonition type="tip" title="Data Visualisation with Streamlit" open=false >}}
-## [<i class="fa-solid fa-cube"></i><i class="fa-brands fa-python"></i> Data Visualisation with Streamlit](https://alleetanner.github.io/data-vis-with-streamlit/)
+## [<i class="fa-solid fa-cube"></i> <i class="fa-brands fa-python"></i> Data Visualisation with Streamlit](https://alleetanner.github.io/data-vis-with-streamlit/)
 Communication is key for research, and today software tools to express aspects of data are growing in capability and accessibility. In this workshop we use the Python data-app library, Streamlit. This is a framework for rapidly producing dashboards and user interfaces, using a streamlined Python API. In this workshop we will
 - look at an overview of the design and potentials of Streamlit
 - create a simple data-app by writing some Python code
