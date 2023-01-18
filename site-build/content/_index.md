@@ -6,7 +6,7 @@ On this page you will find my current courses. These are aimed at learners wishi
 
 {{< admonition type="tip" title="Introduction to the Command Line" open=false >}}
 ## [<i class="fa fa-dollar-sign"></i><i class="fa fa-chevron-right"></i> Introduction to the Command Line](https://alleetanner.github.io/intro-to-command-line/)
-The command line is a way for us to communicate with computers at a more fundamental level than the familiar graphical interface. However, the command line can seem daunting to newcomers... if the command line seems intimidating, unfriendly, or frustrating, this course is for you! In this session you will
+<img align="left" src="https://raw.githubusercontent.com/alleetanner/code-teaching/main/assets/cli.png" width="50" style="margin-right: 10px;" /> The command line is a way for us to communicate with computers at a more fundamental level than the familiar graphical interface. However, the command line can seem daunting to newcomers... if the command line seems intimidating, unfriendly, or frustrating, this course is for you! In this session you will
 - demystify what the command line is saying
 - understand the syntax and logic of commands
 - learn how to move around a computer's file system, making moving and deleting files
