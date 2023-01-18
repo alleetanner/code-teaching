@@ -2,7 +2,7 @@
 
 Welcome! My name is Alastair Tanner and I teach computing skills with the University of Bristol Research Software Engineering group. 
 
-On this page you will find my current courses. These are aimed at learners wishing to build their computing confidence and gain a strong coding foundation. We teach with software engineering principles at heart, so that code is clean, reusable, efficient and understandable. Our wider goals are to promote computer literacy within research, leading to better communication of methods, interpretation of results, and skillsharing within groups. We welcome everyone from beginners to experts, scientists to artists!
+On this page you will find my current courses. We teach with software engineering principles at heart, so that code is clean, reusable, efficient and understandable. Our wider goals are to promote computer literacy within research, leading to better communication of methods, interpretation of results, and skillsharing within groups.
 
 {{< admonition type="tip" title="Jupyter Lab 🚧 in production 🚧 " open=true >}}
 [<img align="left" src="https://raw.githubusercontent.com/alleetanner/code-teaching/main/assets/jupyter.png" width="120" style="margin-right: 15px; margin-top: 15px" />](https://alleetanner.github.io/FIXME/) We do much of our teaching in the browser - this gives us a consistent interface across the classroom, and avoids some of the specifics of operating systems. Jupyter Lab allows us to create and run code, in a browser tab. In this short guide, we cover getting started with Jupyter.
