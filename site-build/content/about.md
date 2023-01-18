@@ -11,9 +11,9 @@
 - [Follow the RSE team on Twitter](https://twitter.com/bristolrse)
 {{< /admonition >}}
 
-<img align="left" src="https://raw.githubusercontent.com/alleetanner/code-teaching/main/assets/portrait2.png" width="200" style="border-radius:3%"  style="border:5px solid white" />
+<img align="left" src="https://raw.githubusercontent.com/alleetanner/code-teaching/main/assets/portrait2.png" width="200" style="border-radius:3%" />
 
-At the University of Bristol my role is as a research software engineer. This means that I create code to drive research, I advocate clearly written, meaningful software, and I teach skills to support these things. My education includes an MSci in Evolution & Palaeontology, leading to a doctoral scholarship in teaching and research in molecular evolution. I gained my PhD in Phylogenomics is 2018, and since then I have broadened my skills in data science and computation as a member of the RSE team.
+I am a Research Software Engineer at the University of Bristol, UK. I support research groups in their coding and computation, I advocate clearly written, sensible software, and I teach these skills in my university community. My experience includes an MSci in Evolution & Palaeontology, leading to a doctoral scholarship in teaching and research (UoB STaR 2013-2018). I gained my PhD in Phylogenomics is 2018, and since then I have broadened my skills in data science and computation as a member of the RSE team.
 
 My software engineering projects have included molecular evolution, epidemiology, physics, and spectroscopy. I enjoy being a scientific generalist, and I have collaborative experience across four schools (Earth Sciences, Life Sciences, Physics and the Medical School) at the University of Bristol.
 
