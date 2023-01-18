@@ -18,7 +18,7 @@ We also provide more advanced sections on pipes and redirects, working with remo
 
 {{< admonition type="tip" title="BioPython" open=false >}}
 ## [<i class="fa-solid fa-dna"></i><i class="fa-brands fa-python"></i> BioPython](https://alleetanner.github.io/biopython/)
-The Python library BioPython has been developed to manage, process and analyse sequence information. This course aims to provide learners with 
+<img align="left" src="https://raw.githubusercontent.com/alleetanner/code-teaching/main/assets/biopython.png" width="100" style="margin-right: 15px;" /> The Python library BioPython has been developed to manage, process and analyse sequence information. This course aims to provide learners with 
 - an overview of the capabilities of BioPython
 - an introduction to sequence repositories
 - run some analyses to examine the sequence information for particular characteristics.
@@ -29,6 +29,7 @@ Where appropriate, this course may also include some material on preparing submi
 
 {{< admonition type="tip" title="Data Visualisation with Streamlit  🚧 !in production! 🚧  " open=false >}}
 ## [<i class="fa-solid fa-cube"></i> <i class="fa-brands fa-python"></i> Data Visualisation with Streamlit](https://alleetanner.github.io/data-vis-with-streamlit/)
+<img align="left" src="https://raw.githubusercontent.com/alleetanner/code-teaching/main/assets/streamlit.png" width="100" style="margin-right: 15px;" />
 - Check back in 2023!
 In this workshop we introduce the Python data-app library, Streamlit. This is a framework for producing dashboards and user interfaces, using a streamlined Python API. In this workshop we will
 - look at an overview of the design and potentials of Streamlit
