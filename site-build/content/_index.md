@@ -4,9 +4,9 @@ Welcome! My name is Alastair Tanner and I teach computing skills with the Univer
 
 On this page you will find my current courses. We teach with software engineering principles at heart, so that code is clean, reusable, efficient and understandable. Our wider goals are to promote computer literacy within research, leading to better communication of methods, interpretation of results, and skillsharing within groups.
 
-{{< admonition type="tip" title="Jupyter Lab 🚧 in production 🚧 " open=true >}}
-[<img align="left" src="https://raw.githubusercontent.com/alleetanner/code-teaching/main/assets/jupyter.png" width="120" style="margin-right: 15px; margin-top: 15px" />](https://alleetanner.github.io/FIXME/) We do much of our teaching in the browser - this gives us a consistent interface across the classroom, and avoids some of the specifics of operating systems. Jupyter Lab allows us to create and run code, in a browser tab. In this short guide, we cover getting started with Jupyter.
-### [<i class="fa-solid fa-table-columns"></i> <i class="fa-brands fa-python"></i> Jupyter Lab](https://alleetanner.github.io/FIXME/)
+{{< admonition type="tip" title="Jupyter Lab: a short set up guide 🚧 in production 🚧 " open=true >}}
+[<img align="left" src="https://raw.githubusercontent.com/alleetanner/code-teaching/main/assets/jupyter.png" width="120" style="margin-right: 15px; margin-top: 15px" />](https://alleetanner.github.io/jupyter-lab/) We do much of our teaching in the browser - this gives us a consistent interface across the classroom, and avoids some of the specifics of operating systems. Jupyter Lab allows us to create and run code, in a browser tab. In this short guide, we cover getting started with Jupyter.
+### [<i class="fa-solid fa-table-columns"></i> <i class="fa-brands fa-python"></i> Jupyter Lab](https://alleetanner.github.io/jupyter-lab/)
 {{< /admonition >}}
 
 
