@@ -23,7 +23,7 @@ On this page you will find my current courses. We teach with software engineerin
 
 
 {{< admonition type="tip" title="Graphical Data Apps in Python" open=true >}}
-[<img align="left" src="https://raw.githubusercontent.com/alleetanner/code-teaching/main/assets/streamlit.png" width="100" style="margin-right: 15px; margin-top: 30px; margin-bottom: 30px;" />](https://alleetanner.github.io/data-vis-with-streamlit/) In this workshop we introduce the Python data app library, Streamlit, used for building data-focused dashboards. It also interfaces with cloud services, bypassing common hurdles associated with publishing web pages.
-## [<i class="fa-solid fa-cube"></i> <i class="fa-brands fa-python"></i> Graphical Data Apps in Python](https://alleetanner.github.io/data-vis-with-streamlit/)
+[<img align="left" src="https://raw.githubusercontent.com/alleetanner/code-teaching/main/assets/streamlit.png" width="100" style="margin-right: 15px; margin-top: 30px; margin-bottom: 30px;" />](https://alleetanner.github.io/graphical-data-apps/) In this workshop we introduce the Python data app library, Streamlit, used for building data-focused dashboards. It also interfaces with cloud services, bypassing common hurdles associated with publishing web pages.
+## [<i class="fa-solid fa-cube"></i> <i class="fa-brands fa-python"></i> Graphical Data Apps in Python](https://alleetanner.github.io/graphical-data-apps/)
 {{< /admonition >}}
 
