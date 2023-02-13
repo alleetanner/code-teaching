@@ -11,7 +11,7 @@ On this page you will find my current courses. We teach with software engineerin
 
 
 {{< admonition type="tip" title="Introduction to the Command Line" open=true >}}
-[<img align="left" src="https://raw.githubusercontent.com/alleetanner/code-teaching/main/assets/cli2.png" width="100" style="margin-right: 15px; margin-top: 10px" />](https://alleetanner.github.io/intro-to-command-line/) The command line is an important skill to learn in computing, and is an gateway towards writing code. To newcomers, however, the command line can be intimidating or frustrating: build your confidence with this course!
+[<img align="left" src="https://raw.githubusercontent.com/alleetanner/code-teaching/main/assets/cli2.png" width="100" style="margin-right: 15px; margin-top: 10px" />](https://alleetanner.github.io/intro-to-command-line/) The command line is an important skill to learn in computing, and is a gateway to writing code. To newcomers, however, the command line can be intimidating or frustrating: build your confidence with this course!
 ## [<i class="fa fa-dollar-sign"></i><i class="fa fa-chevron-right"></i> Introduction to the Command Line](https://alleetanner.github.io/intro-to-command-line/)
 {{< /admonition >}}
 
