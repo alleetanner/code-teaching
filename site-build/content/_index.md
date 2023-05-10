@@ -4,11 +4,6 @@ Welcome! My name is Alastair Tanner and I teach computing skills with the Univer
 
 On this page you will find my current courses. We teach with software engineering principles at heart, so that code is clean, reusable, efficient and understandable. Our wider goals are to promote computer literacy within research, leading to better communication of methods, interpretation of results, and skillsharing within groups.
 
-{{< admonition type="tip" title="Jupyter Lab: a short set up guide 🚧 in production 🚧 " open=true >}}
-[<img align="left" src="https://raw.githubusercontent.com/alleetanner/code-teaching/main/assets/jupyter.png" width="100" style="margin-right: 15px; margin-top: 15px" />](https://alleetanner.github.io/jupyter-lab/) We do much of our teaching in the browser - this gives us a consistent interface across the classroom. Jupyter Lab allows us to create and run code, in a browser tab. In this short guide, we cover getting started.
-## [<i class="fa-solid fa-table-columns"></i> <i class="fa-brands fa-python"></i> Jupyter Lab](https://alleetanner.github.io/jupyter-lab/)
-{{< /admonition >}}
-
 
 {{< admonition type="tip" title="Introduction to the Command Line" open=true >}}
 [<img align="left" src="https://raw.githubusercontent.com/alleetanner/code-teaching/main/assets/cli2.png" width="100" style="margin-right: 15px; margin-top: 10px" />](https://alleetanner.github.io/intro-to-command-line/) The command line is an important skill to learn in computing, and is a gateway to writing code. To newcomers, however, the command line can be intimidating or frustrating: build your confidence with this course!
